@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard
+# Coffee Shop Sales Analysis Project
 
 ## Overview
 Welcome to the Coffee Shop Sales Analysis Dashboard project! This project aims to provide a comprehensive analysis of sales data for a coffee shop using an interactive Excel dashboard. By leveraging data analytics techniques, we uncover valuable insights into sales trends, peak hours, popular products, and more, empowering stakeholders to make informed business decisions.
